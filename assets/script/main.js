@@ -9,7 +9,7 @@ let scissorsBtn = document.querySelector("#scissorsBtn");
 let numTurn = document.querySelector("#numTurn");
 let clrBtn = document.querySelector("#clrBtn");
 
-// match history
+
 let choices = ["ROCK", "PAPER", "SCISSORS"]
 let index = Math.round(Math.random() * 2);
 let player = 0;
